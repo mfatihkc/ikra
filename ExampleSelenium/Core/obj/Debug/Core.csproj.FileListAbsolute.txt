@@ -1,0 +1,11 @@
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\bin\Debug\Core.dll
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\bin\Debug\Core.pdb
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\bin\Debug\WebDriver.dll
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\bin\Debug\WebDriver.Support.dll
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\bin\Debug\WebDriver.xml
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\bin\Debug\WebDriver.Support.xml
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\obj\Debug\Core.dll
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\obj\Debug\Core.pdb
+C:\Users\f.koca\source\repos\ExampleSelenium\Core\obj\Debug\Core.csprojAssemblyReference.cache
